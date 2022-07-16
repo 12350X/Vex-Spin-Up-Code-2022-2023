@@ -10,3 +10,7 @@ I only get to work on the robot once per week and rarely
 get to test features. So if you are using my code and find 
 something wrong contact me through discord: Void#0897
 or use a different code revision.
+
+# Credits 💳
+This code and github is entirley managed by Void.
+[Void's github](https://github.com/ItzVoidYT)

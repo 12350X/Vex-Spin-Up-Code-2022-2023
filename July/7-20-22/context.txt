@@ -1,0 +1,7 @@
+I want to make a menu, power settings the problem is when I click the button to go into power settings and 
+then click the back button to go back to the main menu I can't click power settings again after that.
+
+Most of the button code can be found in button.cpp
+
+Sorry for late response I was making food.
+if anymore context is need please reply.
